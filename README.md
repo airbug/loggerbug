@@ -1,0 +1,4 @@
+loggerbug
+=========
+
+Javascript logging library
