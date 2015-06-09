@@ -111,7 +111,7 @@ require('bugpack').context("*", function(bugpack) {
         },
 
         /**
-         * @returns {number}
+         * @return {number}
          */
         getConsoleLogPriority: function() {
             return this.consoleLogPriority;
